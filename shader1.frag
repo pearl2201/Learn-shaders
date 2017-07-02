@@ -1,4 +1,4 @@
-// Author: Patricio Gonzalez Vivo
+// Test texture
 #ifdef GL_ES
 precision mediump float;
 #endif
